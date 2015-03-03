@@ -2,6 +2,7 @@
 'this code whould be used in conjunction with the Preliminary Material
 'written by the AQA COMP1 Programmer Team
 'developed in the Visual Studio 2008 programming environment
+'Modified by Richard Clarke
 
 Imports System.Math
 Module CaptureTheSarrum
